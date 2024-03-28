@@ -14,4 +14,5 @@ In this Razor Pages web app with ASP.NET Core you will find all these features a
 
 At the end, you'll have an app that can display and manage a database of movies.
 
-https://learn.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/index/_static/sample-page.png?view=aspnetcore-8.0
+![image](https://github.com/Aditya-amrahs/RazorPagesCRUDwebapp/assets/122723977/222c7357-87a8-40b5-a4a9-1f43c83c8b96)
+
