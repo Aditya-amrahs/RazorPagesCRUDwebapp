@@ -13,3 +13,5 @@ In this Razor Pages web app with ASP.NET Core you will find all these features a
 *validation in create and edit fields
 
 At the end, you'll have an app that can display and manage a database of movies.
+
+https://learn.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/index/_static/sample-page.png?view=aspnetcore-8.0
